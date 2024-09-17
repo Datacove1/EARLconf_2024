@@ -1,2 +1,2 @@
 # EARLconf_2024
-Stuff on EARL 2024
+Everything for EARL 2024
